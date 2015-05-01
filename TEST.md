@@ -1,2 +1,2 @@
-Docker Live Migration
-fyzymn@gmail.com Paris, France
+Docker live migration
+fyzymn@gmail.com  Paris, France.
